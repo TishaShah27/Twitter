@@ -8,7 +8,7 @@ const firebaseConfig = {
   projectId: "twiller-949b0",
   storageBucket: "twiller-949b0.firebasestorage.app",
   messagingSenderId: "919475812352",
-  appId: "1:919475812352:web:ad4e728ee4ea6578b500e5"
+  appId: "1:919475812352:web:6f75a3dd9ac909c3b500e5"
 };
 
 const app = initializeApp(firebaseConfig);
