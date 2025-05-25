@@ -3,12 +3,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC1Jo6_9iN0u3ehNd8wdXk8f6pEI2Tyayk",
-  authDomain: "twiller-949b0.firebaseapp.com",
-  projectId: "twiller-949b0",
-  storageBucket: "twiller-949b0.firebasestorage.app",
-  messagingSenderId: "919475812352",
-  appId: "1:919475812352:web:6f75a3dd9ac909c3b500e5"
+  apiKey: "AIzaSyCmNaYQj7yJEgRdO8mD2lgeUlySMTF22pc",
+  authDomain: "twillerv2.firebaseapp.com",
+  projectId: "twillerv2",
+  storageBucket: "twillerv2.firebasestorage.app",
+  messagingSenderId: "843679836417",
+  appId: "1:843679836417:web:8b938b74d0d4da34a4d300",
+  measurementId: "G-R1YLD3YKNP"
 };
 
 const app = initializeApp(firebaseConfig);
